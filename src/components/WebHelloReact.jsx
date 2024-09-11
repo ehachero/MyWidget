@@ -14,7 +14,6 @@ class WebHelloReact extends HTMLElement {
   }
 }
 
-
 // Registrar el Custom Element
 customElements.define('my-web-component', WebHelloReact);
 
